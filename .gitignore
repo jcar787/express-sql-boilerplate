@@ -1,3 +1,7 @@
+# custom
+dist
+.env 
+
 # Logs
 logs
 *.log
